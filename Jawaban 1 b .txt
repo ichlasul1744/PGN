@@ -1,0 +1,8 @@
+1. Mengidentifikasian Kebutuhan: Memahami persyaratan dan tujuan dari fitur login untuk menentukan skenario yang akan diuji.
+2. Penyusunan Skenario: Menulis skenario pengujian yang mencakup kasus penggunaan positif dan negatif, serta kondisi batas.
+3. Pemilihan Alat Pengujian: Memilih alat pengujian otomatisasi yang sesuai dengan teknologi yang digunakan dalam aplikasi (Selenium, katalon, wdio dan lain-lain).
+4. Pembuatan Skrip Pengujian: Menulis skrip yang mensimulasikan aksi pengguna seperti memasukkan username dan password, serta menekan tombol login.
+5. Pengujian dan Validasi: Menjalankan skrip pengujian untuk memverifikasi bahwa fitur login bekerja sesuai dengan harapan.
+6. Analisis Hasil: Meninjau hasil pengujian untuk mengidentifikasi kegagalan dan melakukan perbaikan jika diperlukan.
+7. Optimisasi Skrip: Memperbaiki dan mengoptimalkan skrip pengujian berdasarkan umpan balik dan hasil pengujian.
+8. Dokumentasi: Mendokumentasikan proses pengujian dan hasilnya untuk referensi di masa mendatang.
